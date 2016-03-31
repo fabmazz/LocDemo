@@ -1,0 +1,3 @@
+[submodule "libwlocate"]
+	path = libwlocate
+	url = https://github.com/fabmazz/libwlocate-gradle.git
