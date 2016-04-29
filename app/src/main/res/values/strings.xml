@@ -9,4 +9,5 @@
     <string name="error_parsing_response">Error parsing the server response</string>
     <string name="error_io_error">Input/output error</string>
     <string name="error_generic">An error occurred</string>
+    <string name="title_activity_settings">Settings</string>
 </resources>
